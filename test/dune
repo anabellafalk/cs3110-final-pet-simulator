@@ -1,0 +1,4 @@
+(test
+ (name test_cs_final)
+ (libraries ounit2 cs_final)
+ (modules test_cs_final))
