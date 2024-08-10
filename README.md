@@ -1,9 +1,9 @@
 Project Members:
 
-Bella Falkenberg (alf253)
+Bella Falkenberg 
 
-Ena Kovac (ehk75)
+Ena Kovac
 
-Claire McHugh (cdm234)
+Claire McHugh
 
-Megan Cowart (mec328)
+Megan Cowart 
